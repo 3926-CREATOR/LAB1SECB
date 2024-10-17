@@ -1,4 +1,5 @@
 module abc {
 }
 main
+{ammar}
 
