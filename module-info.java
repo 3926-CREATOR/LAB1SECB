@@ -1,3 +1,4 @@
 module abc {
 }
-{AMMAR}
+main
+
